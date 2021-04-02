@@ -1,0 +1,2 @@
+# Chicago Graffity
+This is an analysis of publically available dataset. I collected the data from chicago city database for graffity removal requests. This contains information about the zip code, longitude, latitude and date of the request. I processed this to a csv and did a frequency distribution by location and used it to depict the information in a map using R. This exercise is designed to familiarize with R code, and plotting functionality with R. 
